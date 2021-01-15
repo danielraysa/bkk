@@ -1,0 +1,19 @@
+<td><?php echo $nama['nama'];?></td>
+
+
+<?php
+$tulisan=“Tes”;
+$tulisanterbalik=strrev($tulisan);
+echo $tulisanKecil;
+?>
+
+
+<?php
+	$data = "Rapid";
+	$data = strrev($data);
+ 
+	echo $data;
+?>
+
+
+hasil "dipar"
